@@ -18,6 +18,14 @@
     left: 50%;
 }
 
+small{
+    font-style: italic;
+    font-size: 15px;
+    display: block;
+    color: #fff;
+    text-align: end;
+}
+
  .wrapper h1{
     text-align: center;
     margin-bottom: 40px;
